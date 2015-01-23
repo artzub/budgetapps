@@ -1,0 +1,6 @@
+[submodule "fnc"]
+	path = fnc
+	url = git@github.com:artzub/fnc.git
+[submodule "minfin"]
+	path = minfin
+	url = git@github.com:artzub/minfin.git
